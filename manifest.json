@@ -1,0 +1,10 @@
+{
+  "name": "SANDIPANI ACADEMY H.S.S. MAINA",
+  "short_name": "SANDIPANI ACADEMY",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#173b8f",
+  "description": "SANDIPANI ACADEMY H.S.S. MAINA, SEHORE (M.P.)"
+}
